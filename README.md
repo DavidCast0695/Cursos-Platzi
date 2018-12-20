@@ -14,11 +14,15 @@ Los proyecyos vistos en este repositorio, son los que se imparten por parte de l
 
 # Estado de los proyectos
 
-| Proyecto | Estado | Porcentaje |
-| :--------: | :-----: | :---: |
-|  Angular   |   En curso   | `25%` |
+| <h4>Proyecto</h4> | <h4>Estado</h4> | <h4>Porcentaje</h4> |
+| :---: | :---: | :---: |
+| <h6>Angular</h6> | <h6>En curso</h6> | <h6>0%</h6> |
+| Angular 4 | Pospuesto | `15%` |
+| Angular 6 | En curso | `0%` |
 
 - [x] Angular
+    - [ ] Angular 4
+    - [x] Angular 6
 - [ ] Base de datos.
 - [ ] ASP .NET
 - [ ] Android
