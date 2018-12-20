@@ -19,7 +19,7 @@ Los proyecyos vistos en este repositorio, son los que se imparten por parte de l
 |  Angular   |   En curso   | `25%` |
 
 - [x] Angular
-- [] Base de datos.
-- [] ASP .NET
-- [] Android
+- [ ] Base de datos.
+- [ ] ASP .NET
+- [ ] Android
 
