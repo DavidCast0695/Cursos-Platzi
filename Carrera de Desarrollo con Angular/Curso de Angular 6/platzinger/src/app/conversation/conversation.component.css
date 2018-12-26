@@ -1,0 +1,33 @@
+#conversationContainer {
+    background-image: url(/assets/img/msnbg.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.imgconv {
+    max-width: 150px;
+}
+
+.borra {
+    border-radius: 10px;
+}
+
+.messagesContainer {
+    -webkit-box-shadow: 3px 10px 21px 0px rgba(0,0,0,0.53);
+    -moz-box-shadow: 3px 10px 21px 0px rgba(0,0,0,0.53);
+    box-shadow: 3px 10px 21px 0px rgba(0,0,0,0.53);
+    background-color: white;
+    height: 100%;
+}
+
+.wrtmsg {
+    -webkit-box-shadow: 3px 10px 21px 0px rgba(0,0,0,0.34);
+    -moz-box-shadow: 3px 10px 21px 0px rgba(0,0,0,0.34);
+    box-shadow: 3px 10px 21px 0px rgba(0,0,0,0.34);
+    background-color: white;
+    height: 100%;
+}
+
+.heightComplete {
+    height: 100%;
+}
